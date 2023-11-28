@@ -1,10 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
 header {
     background-color: blueviolet;
     color: lightcyan;
 }
 
+.info {
+    display: flex;
+    flex-direction:column;
+}
+
 h2 {
-    background-color: rgb(70, 70, 249);
+    background-color: rgb(27, 27, 193);
     color: coral;
 }
 
