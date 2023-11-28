@@ -12,3 +12,8 @@ img {
     width: 700px;
     height: auto;
 }
+
+h3 {
+    background-color: rgb(2, 2, 103);
+    color: lightcoral;
+}
