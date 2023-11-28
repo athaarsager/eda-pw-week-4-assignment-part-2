@@ -9,12 +9,17 @@ header {
 
 .info {
     display: flex;
-    flex-direction:column;
+    flex-direction: column;
+    width: 800px;
+    align-items: center;
+    margin-left: auto;
+    margin-right:auto;
 }
 
 h2 {
     background-color: rgb(27, 27, 193);
     color: coral;
+    width: 800px;
 }
 
 img {
@@ -25,4 +30,5 @@ img {
 h3 {
     background-color: rgb(2, 2, 103);
     color: lightcoral;
+    width: 800px;
 }
