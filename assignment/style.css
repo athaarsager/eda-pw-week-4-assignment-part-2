@@ -56,7 +56,15 @@ h4 {
 
 .bottomContainerContainer {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.warningSign {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 5px;
 }
 
 .bottomElementsContainer {
