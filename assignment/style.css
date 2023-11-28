@@ -54,6 +54,11 @@ h4 {
     border-radius: 5px;
 }
 
+.bottomContainerContainer {
+    display: flex;
+    justify-content: center;
+}
+
 .bottomElementsContainer {
     display: flex;
     flex-direction: column;
