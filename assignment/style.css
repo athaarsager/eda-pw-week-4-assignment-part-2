@@ -17,9 +17,11 @@ header {
 }
 
 h2 {
+    display: flex;
+    justify-content: center;
     background-color: rgb(27, 27, 193);
     color: coral;
-    width: 800px;
+    width: 750px;
 }
 
 img {
@@ -28,7 +30,9 @@ img {
 }
 
 h3 {
+    display: flex;
+    justify-content: center;
     background-color: rgb(2, 2, 103);
     color: lightcoral;
-    width: 800px;
+    width: 750px;
 }
