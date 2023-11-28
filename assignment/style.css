@@ -7,3 +7,8 @@ h2 {
     background-color: rgb(70, 70, 249);
     color: coral;
 }
+
+img {
+    width: 700px;
+    height: auto;
+}
