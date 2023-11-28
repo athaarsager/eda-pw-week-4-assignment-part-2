@@ -13,7 +13,9 @@ header {
     width: 800px;
     align-items: center;
     margin-left: auto;
-    margin-right:auto;
+    margin-right: auto;
+    border: 5px solid darkblue;
+    border-radius: 10px;
 }
 
 h2 {
@@ -22,6 +24,8 @@ h2 {
     background-color: rgb(27, 27, 193);
     color: coral;
     width: 750px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
 img {
@@ -35,4 +39,6 @@ h3 {
     background-color: rgb(2, 2, 103);
     color: lightcoral;
     width: 750px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
